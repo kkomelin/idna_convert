@@ -1,0 +1,6 @@
+name            = "IDNA Convert"
+description     = "Provides functions for Internationalized Domain Names support"
+core            = "7.x"
+
+files[]         = idna_convert.class.php
+files[]         = idna_convert.test
