@@ -2,7 +2,7 @@ IDNA Convert
 ---------------------
 
 Generally speaking, the module provides two functions that allow to convert domain names
-in >Punycode (http://en.wikipedia.org/wiki/Punycode) to human-readable national domain names in Unicode and back.
+in Punycode (http://en.wikipedia.org/wiki/Punycode) to human-readable national domain names in Unicode and vice versa.
 
 Examples of use:
 print idna_convert_decode("xn--d1acufc.xn--p1ai"); // Prints "домен.рф".
